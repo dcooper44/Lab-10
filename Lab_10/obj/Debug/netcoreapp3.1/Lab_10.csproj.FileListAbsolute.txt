@@ -1,0 +1,13 @@
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.exe
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.deps.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.runtimeconfig.dev.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\bin\Debug\netcoreapp3.1\Lab_10.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csprojAssemblyReference.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 4\Lab10\Lab_10\Lab_10\obj\Debug\netcoreapp3.1\Lab_10.genruntimeconfig.cache
